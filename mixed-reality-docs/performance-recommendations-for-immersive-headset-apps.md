@@ -80,7 +80,7 @@ There are quite a few things you can do on a GPU bound game. The first step is t
 // Stats for Vertex shader:
 //        d3d11: 39 math
 // Stats for Fragment shader:
-//        d3d11: 4 math, 1 texture<br>
+//        d3d11: 4 math, 1 texture
 ```
 
 **App thread CPU bound scenes**
